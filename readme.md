@@ -1,12 +1,6 @@
 ## Curso JS Moderno (ES6+)
 
-
-### Links
-https://es6-features.org/#Constants
-https://kangax.github.io/
-https://ponyfoo.com/articles/tagged/es6-in-deph
-
-
+[Canal para Assistir as Aulas](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi)
 
 ### Ementa do Módulo
 
@@ -56,3 +50,8 @@ https://ponyfoo.com/articles/tagged/es6-in-deph
 - 16.6 - Variáveis de Ambiente no Webpack (5:08)
 - 16.7 - Adicionando Sourcemaps em nosso código (3:46)
 - 16.8 - Inicializando um server com Webpack (3:21)
+
+### Links
+[es6-features](https://es6-features.org/#Constants)
+[angax](https://kangax.github.io/)
+[ponyfoo.com](https://ponyfoo.com/articles/tagged/es6-in-deph)
